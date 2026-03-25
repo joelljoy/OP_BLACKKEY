@@ -59,7 +59,7 @@ Navigate through a cyber network, unlock gates, collect power nodes, and avoid i
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hacking-protocol.git
+git clone https://github.com/joelljoy/hacking-protocol.git
 cd hacking-protocol
 ```
 

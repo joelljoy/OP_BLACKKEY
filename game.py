@@ -6,7 +6,7 @@ from collections import deque
 # Initialize Pygame
 pygame.init()
 
-# Constants
+
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 700
 GRID_SIZE = 40

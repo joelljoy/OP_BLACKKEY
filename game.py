@@ -62,7 +62,7 @@ class Virus(Entity):
         self.active = False
         self.path = []
         self.move_cooldown = 0
-        self.move_delay = 18  # Slightly slower for better balance
+        self.move_delay = 18  
 
     def activate(self):
         self.active = True

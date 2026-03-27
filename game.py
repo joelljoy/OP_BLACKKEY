@@ -135,7 +135,7 @@ class Game:
         self.load_level(self.current_level)
 
     def create_levels(self):
-        # Level 1: Tutorial
+        # Level 1
         level1 = {
             "name": "LEVEL 1: INITIALIZATION",
             "grid": [

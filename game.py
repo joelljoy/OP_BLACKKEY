@@ -3,7 +3,7 @@ import sys
 from enum import Enum
 from collections import deque
 
-# Initialize Pygame
+# Initialize Pygam
 pygame.init()
 
 
